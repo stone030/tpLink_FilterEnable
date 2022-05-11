@@ -1,3 +1,5 @@
+#note: you can make use of the commented lines, if you think they will make it work :)
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
